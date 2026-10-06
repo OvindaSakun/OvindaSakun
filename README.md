@@ -43,5 +43,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-### 📊 GitHub Stats
-![Ovinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=OvindaSakun&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Networking+%26+Cybersecurity;Linux+and+Network+Security;Building+Secure+Systems;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+</p>
