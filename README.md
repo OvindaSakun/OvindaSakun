@@ -1,12 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0d0e7fa1-8000-4cc3-a6f5-56ce0824e4b7" width="480" alt="You've been hacked" />
-  <h1>Hey, I'm Sakun 👋</h1>
-</div>
-
-### 💫 About Me
-- 🎓 BSc (Hons) Computer Networks Undergraduate at CINEC Campus.
-- 💻 Passionate about network engineering, cybersecurity, and AI integrations.
-- 🛠️ Currently building skills in Python, Linux system administration, artificial intelligence, and machine learning.
+There's no about me
+Get Lost
 
 ### 🌐 Socials
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ovinda.sakun@proton.me)
