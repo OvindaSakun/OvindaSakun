@@ -1,5 +1,8 @@
 <div align="center">
-  <h2><code>> There's no about me. Get Lost.</code></h2>
+  <h2>
+    <code>> There's no about me. Get Lost.</code><br>
+    <code>> ...actually, fine. Check <a href="https://ovindasakun.github.io">my portfolio</a>.</code>
+  </h2>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Networking+%26+Cybersecurity;Linux+and+Network+Security;Building+Secure+Systems;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
@@ -11,6 +14,9 @@
 ### 🌐 Connect With Me
 
 <div align="center">
+  <a href="https://ovindasakun.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111214?style=for-the-badge&logo=googlechrome&logoColor=F72585" alt="Portfolio" />
+  </a>
   <a href="mailto:ovinda.sakun@proton.me">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
