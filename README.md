@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://ovindasakun.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-111214?style=for-the-badge&logo=googlechrome&logoColor=F72585" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111214?style=for-the-badge&logo=googlechrome&logoColor=F72585" alt="Website" />
   </a>
   <a href="mailto:ovinda.sakun@proton.me">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
