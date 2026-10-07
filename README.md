@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0d0e7fa1-8000-4cc3-a6f5-56ce0824e4b7" width="480" alt="You've been hacked" />
-  
   <h2><code>> There's no about me. Get Lost.</code></h2>
 
   <a href="https://git.io/typing-svg">
