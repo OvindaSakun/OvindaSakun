@@ -1,7 +1,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0d0e7fa1-8000-4cc3-a6f5-56ce0824e4b7" width="480" alt="You've been hacked" />
-There's no about me
-Get Lost
+  
+  <h2><code>> There's no about me. Get Lost.</code></h2>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Networking+%26+Cybersecurity;Linux+and+Network+Security;Building+Secure+Systems;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+  </a>
+</div>
 
 ### 🌐 Socials
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ovinda.sakun@proton.me)
