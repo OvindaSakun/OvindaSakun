@@ -1,7 +1,7 @@
 <div align="center">
   <h2>
     <code>> There's no about me. Get Lost.</code><br>
-    <code>> ...actually, fine. Check <a href="https://ovindasakun.github.io">my portfolio</a>.</code>
+    <code>> ...actually, fine. Check out <a href="https://ovindasakun.github.io">my website</a>.</code>
   </h2>
 
   <a href="https://git.io/typing-svg">
