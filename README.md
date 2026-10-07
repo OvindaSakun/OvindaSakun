@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Networking+%26+Cybersecurity;Linux+and+Network+Security;Building+Secure+Systems;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
   </a>
 </div>
+
 ---
 
 ### 🌐 Connect With Me
