@@ -42,7 +42,7 @@
   <a href="https://discord.com/users/daredevil_x">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://www.reddit.com/user/daredevil__x/">
+  <a href="https://www.reddit.com/user/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
   <a href="https://myanimelist.net/profile/daredevil_x">
