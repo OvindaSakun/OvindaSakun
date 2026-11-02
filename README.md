@@ -14,38 +14,10 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://ovindasakun.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-111214?style=for-the-badge&logo=googlechrome&logoColor=F72585" alt="Website" />
-  </a>
   <a href="mailto:ovinda.sakun@proton.me">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ovinda-sakun">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/daredevil__x">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/daredevil._x">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/Ovinda.Sakun">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <br/>
-  <a href="https://youtube.com/@OvindaSakun">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://t.me/daredevil_x">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://discord.com/users/daredevil_x">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.reddit.com/user/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <a href="https://myanimelist.net/profile/daredevil_x">
-    <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white" alt="MyAnimeList" />
+  <a href="ircs://irc.libera.chat:6697/daredevil_x,isnick">
+    <img src="https://img.shields.io/badge/IRC-111214?style=for-the-badge&logo=hexchat&logoColor=white" alt="IRC" />
   </a>
 </div>
