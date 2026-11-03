@@ -18,6 +18,6 @@
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://web.libera.chat/?channels=#daredevil-x">
-    <img src="https://img.shields.io/badge/IRC-4A5568?style=for-the-badge&logo=archlinux&logoColor=white" alt="IRC" />
+    <img src="https://img.shields.io/badge/IRC-4A5568?style=for-the-badge&logo=linux&logoColor=white" alt="IRC" />
   </a>
 </div>
