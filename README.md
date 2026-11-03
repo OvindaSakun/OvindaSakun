@@ -17,7 +17,7 @@
   <a href="mailto:ovinda.sakun@proton.me">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
-  <a href="ircs://irc.libera.chat:6697/daredevil_x,isnick">
-    <img src="https://img.shields.io/badge/IRC-111214?style=for-the-badge&logo=hexchat&logoColor=white" alt="IRC" />
+  <a href="https://web.libera.chat/?channels=#daredevil-x">
+    <img src="https://img.shields.io/badge/IRC-111214?style=for-the-badge&logoColor=white" alt="IRC" />
   </a>
 </div>
